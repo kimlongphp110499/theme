@@ -32,11 +32,11 @@ const EnterpriceSass = () => {
 
             <BannerSection />
 
-            <FeatureSection />
+            {/* <FeatureSection /> */}
 
             <BusinessSection />
 
-            <ServiceSection />
+            {/* <ServiceSection />
 
             <SliderSection />
 
@@ -44,7 +44,7 @@ const EnterpriceSass = () => {
 
             <TestimonialSection />
 
-            <BrandSection />
+            <BrandSection /> */}
 
             <FooterSection />
 

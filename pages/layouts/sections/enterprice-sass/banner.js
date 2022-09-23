@@ -45,7 +45,8 @@ const Banner = () => {
                         <div className="container-fluid blog-sec detail2 p-0">
                         <Slider {...settings1}>
                         <img alt="" className="img-fluid img-dextop" src="/assets/images/saas2/dextop2.png" />
-                        <img alt=""  className="img-fluid test" style={{height: "400px !important", margintTop: "25% !important"}} src="/assets/images/logo/test.jpeg" />
+                        <img alt="" className="img-fluid img-dextop" src="/assets/images/saas2/dextop2.png" />
+                        <img alt="" className="img-fluid img-dextop" src="/assets/images/saas2/dextop2.png" />
                         </Slider>
                         </div>
                         </Col>

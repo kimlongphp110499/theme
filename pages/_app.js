@@ -7,6 +7,8 @@ import { ToastContainer } from 'react-toastify';
 import Customizer from '../containers/customizer';
 
 import './index.scss';
+import '../public/assets/home.css'; // Tell webpack that Button.js uses these styles
+import '../public/assets/style.css'; // Tell webpack that Button.js uses these styles
 
 import { ApolloProvider } from '@apollo/client';
 import client from '../apollo-client';
