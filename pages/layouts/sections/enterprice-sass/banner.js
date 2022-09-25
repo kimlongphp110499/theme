@@ -27,11 +27,11 @@ const Banner = () => {
                             <div className="center-text">
                                 <div>
                                     <div className="header-text">
-                                        <h1>VNLogin Browser For Powerful </h1>
+                                        <h1>VNLogin Browser <br/> For Powerful </h1>
                                     </div>
-                                    <div className="header-sub-text">
-                                        <h3 className="saas2-sub-text">Anti Detection
-                                        </h3>
+                                    <div className="header-text">
+                                        <h1>Anti Detection
+                                        </h1>
                                     </div>
                                     <div className="header-sub-text">
                                         <p className="sub-para text-white">Synthesize all software on the market. Optimize & Upgrade perfect every day with a team of professionals in all industries. Build a foundation that any individual, team, or organization can use effectively.</p>
