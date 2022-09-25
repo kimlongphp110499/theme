@@ -32,7 +32,7 @@ const Business = () => (
    </div>
    <div class="containerr text-center">
       <h2 class="title color-primary fw-900 d-inline-block bg-md-white aos-init aos-animate" data-aos="zoom-in-down">
-         Hidemyacc dành cho ai
+         VNLogin dành cho ai
       </h2>
       <div class="row justify-content-center ms-md-3 me-md-2 mx-0">
          <div class="col-lg-4 col-md-6 col-sm-6 col-11 card-item px-xl-4 px-3 pb-4">
@@ -48,7 +48,7 @@ const Business = () => (
          <div class="col-lg-4 col-md-6 col-sm-6 col-11 card-item px-xl-4 px-3 pb-4">
             <img src="assets/images/ic-crypto.webp" alt="Crypto" class="mb-2 img-service"/>
             <h4 class="title-card-item color-primary fw-bold w-100">Crypto</h4>
-            <p class="color-primary pb-md-0 pb-sm-4 w-100">Chạy nhiều tài khoản là yếu tố không thể thiếu để kiếm được nhiều tiền nhất có thể, đặc biệt là bạn phải dùng Hidemyacc để ẩn danh. Nhiều tài khoản Whitelist và Airdrop sẽ không bao giờ bị phát hiện.</p>
+            <p class="color-primary pb-md-0 pb-sm-4 w-100">Chạy nhiều tài khoản là yếu tố không thể thiếu để kiếm được nhiều tiền nhất có thể, đặc biệt là bạn phải dùng VNLogin để ẩn danh. Nhiều tài khoản Whitelist và Airdrop sẽ không bao giờ bị phát hiện.</p>
          </div>
          <div class="col-lg-4 col-md-6 col-sm-6 col-11 card-item px-xl-4 px-3 pb-4">
             <img src="assets/images/ic-gambling.webp" alt="Gambling" class="mb-2 img-service"/>
@@ -80,7 +80,7 @@ const Business = () => (
    </div>
    <div class="containerr text-center">
       <h2 class="title color-primary fw-900 d-inline-block bg-md-white aos-init aos-animate" data-aos="zoom-in-down">
-         Lý do bạn cần Hidemyacc
+         Lý do bạn cần VNLogin
       </h2>
       <div class="row justify-content-center ms-3 me-2">
          <div class="col-md-4 col-sm-9 col-11 card-item px-xl-4 pb-4">
@@ -96,7 +96,7 @@ const Business = () => (
          <div class="col-md-4 col-sm-9 col-11 card-item px-xl-4 pb-4">
             <img src="assets/images/ic-multiapps.webp" alt="Đa ứng dụng" class="mb-2 img-service"/>
             <h4 class="title-card-item color-primary fw-bold w-100">Đa ứng dụng</h4>
-            <p class="color-primary">Tích hợp nhiều phần mềm khác với HIDEMYACC giúp người dùng nâng cao hiệu quả làm việc.</p>
+            <p class="color-primary">Tích hợp nhiều phần mềm khác với VNLogin giúp người dùng nâng cao hiệu quả làm việc.</p>
          </div>
       </div>
    </div>
@@ -116,7 +116,7 @@ const Business = () => (
                <div class="item-browser">
                   <img src="assets/images/ic-ghosty.webp" class="icon-browser float-start"/>
                   <div class="section-browser">
-                     <p>Trình duyệt Ghosty được xây dựng trên nền tảng Chromium (tương tự như Chrome, Opera, Edge), đáp ứng nhiều lý do khác nhau của Hidemyacc. Bằng cách đó, Ghosty đảm bảo an toàn thông tin, giúp khách hàng truy cập website mà không bị lộ danh tính thật.</p>
+                     <p>Trình duyệt Ghosty được xây dựng trên nền tảng Chromium (tương tự như Chrome, Opera, Edge), đáp ứng nhiều lý do khác nhau của VNLogin. Bằng cách đó, Ghosty đảm bảo an toàn thông tin, giúp khách hàng truy cập website mà không bị lộ danh tính thật.</p>
                      <div><a class="btn-yellow btn-m boxshadow" href="https://hidemyacc.com/blog/say-hello-to-hidemyaccs-antidetect-browser-ghosty/" target="_blank"><span class="fw-bold me-2 text-uppercase">Xem Thêm</span><img src="assets/images/ic-polygon.webp"/></a></div>
                   </div>
                </div>
@@ -125,7 +125,7 @@ const Business = () => (
                <div class="item-browser">
                   <img src="assets/images/ic-foxy.webp" class="icon-browser float-start"/>
                   <div class="section-browser">
-                     <p>Trình duyệt Foxy được Hidemyacc tạo trên mã nguồn mở Firefox. Firefox là một trong những trình duyệt được bảo mật cao nhất hiện nay. Như vậy, sự kết hợp giữa 2 nền tảng bảo mật là Firefox và Hidemyacc, bạn có thể yên tâm sử dụng mà không cần lo lắng về khả năng bảo mật thông tin.</p>
+                     <p>Trình duyệt Foxy được VNLogin tạo trên mã nguồn mở Firefox. Firefox là một trong những trình duyệt được bảo mật cao nhất hiện nay. Như vậy, sự kết hợp giữa 2 nền tảng bảo mật là Firefox và VNLogin, bạn có thể yên tâm sử dụng mà không cần lo lắng về khả năng bảo mật thông tin.</p>
                      <div><a class="btn-yellow btn-m boxshadow opacity-50" target="_blank"><span class="fw-bold me-2 text-uppercase">Xem Thêm</span><img src="assets/images/ic-polygon.webp"/></a></div>
                   </div>
                </div>
@@ -160,7 +160,7 @@ const Business = () => (
         </div>
         <div className="containerr text-center">
           <h2 className="title color-primary fw-900 d-inline-block bg-md-white aos-init aos-animate" data-aos="zoom-in-down">
-            Tính năng của Hidemyacc{/* */}?
+            Tính năng của VNLogin{/* */}?
           </h2>
           <div className="position-relative">
             <div className="line-in-1">
@@ -176,7 +176,7 @@ const Business = () => (
               <div className="col-xl-5 col-lg-6 col-md-6 col-sm-10 col-12 text-start">
                 <div className="div-circle d-none mb-3" style={{background: '#4669C5'}} />
                 <h3 className="title-item aos-init" data-aos="zoom-in">Teamwork</h3>
-                <div className="color-primary mb-3">Dễ dàng chia sẻ Profile/Folder Hidemyacc với các thành viên của bạn. Tài khoản được chia thành các nhóm cụ thể, Hidemyacc cho phép bạn quản lý tài khoản của mình và nhóm của bạn một cách hiệu quả.</div>
+                <div className="color-primary mb-3">Dễ dàng chia sẻ Profile/Folder VNLogin với các thành viên của bạn. Tài khoản được chia thành các nhóm cụ thể, VNLogin cho phép bạn quản lý tài khoản của mình và nhóm của bạn một cách hiệu quả.</div>
                 <small className="fw-light color-primary mb-2 d-block">Xem video hướng dẫn chia sẻ Profiles/Folders tại đây</small><a className="btn-watch" href="https://www.youtube.com/watch?v=21IP0puN_iQ" target="_blank">XEM<img src="assets/images/ic-polygon.webp" className="ms-2" /></a>
               </div>
             </div>
@@ -229,7 +229,7 @@ const Business = () => (
               <div className="col-xl-5 col-lg-6 col-md-6 col-sm-10 col-12 text-start">
                 <div className="div-circle d-none mb-3" style={{background: '#1AB5E7'}} />
                 <h3 className="title-item aos-init" data-aos="zoom-in">Bảo Vệ Fingerprint</h3>
-                <div className="color-primary mb-3">Hidemyacc ẩn dấu vân tay trình duyệt ban đầu của bạn và tạo vân tay trình duyệt mới và duy nhất cho các profile mới của bạn. Đó là lý do tại sao bạn KHÔNG THỂ BỊ PHÁT HIỆN.</div>
+                <div className="color-primary mb-3">VNLogin ẩn dấu vân tay trình duyệt ban đầu của bạn và tạo vân tay trình duyệt mới và duy nhất cho các profile mới của bạn. Đó là lý do tại sao bạn KHÔNG THỂ BỊ PHÁT HIỆN.</div>
                 <small className="fw-light color-primary mb-2 d-block">Xem video hướng dẫn kiểm tra Fingerprint tại đây</small><a className="btn-watch" href="https://www.youtube.com/channel/UCbFDeSKeeLYhYcI0U1blDMQ" target="_blank">XEM<img src="assets/images/ic-polygon.webp" className="ms-2" /></a>
               </div>
             </div>
@@ -257,7 +257,7 @@ const Business = () => (
                 <div className="div-circle d-none mb-3" style={{background: '#1A84E7'}} />
                 <h3 className="title-item aos-init" data-aos="zoom-in">Kho Cấu Hình Khổng Lồ</h3>
                 <div className="color-primary mb-3">Cập nhật liên tục các thông số máy tính / smartphone (iOS, Android), trình duyệt, hệ điều hành mới, tạo nguồn dữ liệu dày đặc giúp người dùng tạo ra nhiều loại thông số máy khác nhau.</div>
-                <small className="fw-light color-primary mb-2 d-block">Xem video hướng dẫn sử dụng Hidemyacc tại đây</small><a className="btn-watch" href="https://www.youtube.com/watch?v=Lxv1zjU_uJs&t=1s" target="_blank">XEM<img src="assets/images/ic-polygon.webp" className="ms-2" /></a>
+                <small className="fw-light color-primary mb-2 d-block">Xem video hướng dẫn sử dụng VNLogin tại đây</small><a className="btn-watch" href="https://www.youtube.com/watch?v=Lxv1zjU_uJs&t=1s" target="_blank">XEM<img src="assets/images/ic-polygon.webp" className="ms-2" /></a>
               </div>
               <div className="d-md-block d-none col-xl-6 col-md-6 col-sm-10 col-12"><img src="assets/images/img-huge-configurations.webp" className="w-100" alt="Kho Cấu Hình Khổng Lồ" /></div>
             </div>
@@ -278,7 +278,7 @@ const Business = () => (
               <div className="col-xl-5 col-lg-6 col-md-6 col-sm-10 col-12 text-start">
                 <div className="div-circle d-none mb-3" style={{background: '#1A84E7'}} />
                 <h3 className="title-item aos-init" data-aos="zoom-in">Cookie-Bot</h3>
-                <div className="color-primary mb-3">Sử dụng tính năng Automation của Hidemyacc để truy cập danh sách các URL, chạy một bot để truy cập các trang web và thu thập cookie. Mỗi profile lưu trữ cookie và bộ nhớ cache của bạn một cách an toàn, cho phép bạn tiết kiệm thời gian quý báu.</div>
+                <div className="color-primary mb-3">Sử dụng tính năng Automation của VNLogin để truy cập danh sách các URL, chạy một bot để truy cập các trang web và thu thập cookie. Mỗi profile lưu trữ cookie và bộ nhớ cache của bạn một cách an toàn, cho phép bạn tiết kiệm thời gian quý báu.</div>
                 <small className="fw-light color-primary mb-2 d-block">Xem video hướng dẫn Cookie-bot tại đây</small><a className="btn-watch" href="https://www.youtube.com/channel/UCbFDeSKeeLYhYcI0U1blDMQ" target="_blank">XEM<img src="assets/images/ic-polygon.webp" className="ms-2" /></a>
               </div>
             </div>
@@ -304,7 +304,7 @@ const Business = () => (
               <div className="col-xl-5 col-lg-6 col-md-6 col-sm-10 col-12 text-start">
                 <div className="div-circle d-none mb-3" style={{background: '#57CBD2'}} />
                 <h3 className="title-item aos-init" data-aos="zoom-in">Automation</h3>
-                <div className="color-primary mb-3">Automation là tính năng cao cấp giúp tiết kiệm thời gian, công sức, tiền bạc của bạn cho các tác vụ lặp đi lặp lại như Cookie Bot, tạo tài khoản, lướt web, ... Tất cả những gì bạn cần là viết một số đoạn mã đơn giản trên tab Tự động hóa để Hidemyacc tự động chạy cấu hình và làm các công việc lặp đi lặp lại theo yêu cầu của bạn.</div>
+                <div className="color-primary mb-3">Automation là tính năng cao cấp giúp tiết kiệm thời gian, công sức, tiền bạc của bạn cho các tác vụ lặp đi lặp lại như Cookie Bot, tạo tài khoản, lướt web, ... Tất cả những gì bạn cần là viết một số đoạn mã đơn giản trên tab Tự động hóa để VNLogin tự động chạy cấu hình và làm các công việc lặp đi lặp lại theo yêu cầu của bạn.</div>
                 <small className="fw-light color-primary mb-2 d-block">Xem video hướng dẫn Automation tại đây</small><a className="btn-watch" href="https://www.youtube.com/watch?v=mIxq7PYg5Us" target="_blank">XEM<img src="assets/images/ic-polygon.webp" className="ms-2" /></a>
               </div>
               <div className="d-md-block d-none col-xl-6 col-md-6 col-sm-10 col-12"><img src="assets/images/img-automation.webp" className="w-100" alt="Automation" /></div>
@@ -387,7 +387,7 @@ const Business = () => (
               <div className="col-xl-5 col-lg-6 col-md-6 col-sm-10 col-12 text-start">
                 <div className="div-circle d-none mb-3" style={{background: '#4669C5'}} />
                 <h3 className="title-item aos-init" data-aos="zoom-in">Multi-apps</h3>
-                <div className="color-primary mb-3">Hidemyacc là điều kiện cần nhưng chưa đủ để tham gia kiếm tiền online. Ví dụ, bạn cần một công cụ tích hợp với Hidemyacc để tải các thiết kế lên nhiều tài khoản website cùng một lúc. Hiểu được nhu cầu đó, Hidemyacc mở rộng phát triển thêm các công cụ cần thiết khác để khách hàng có thể dễ dàng tăng hiệu quả công việc nhất có thể.</div>
+                <div className="color-primary mb-3">VNLogin là điều kiện cần nhưng chưa đủ để tham gia kiếm tiền online. Ví dụ, bạn cần một công cụ tích hợp với VNLogin để tải các thiết kế lên nhiều tài khoản website cùng một lúc. Hiểu được nhu cầu đó, VNLogin mở rộng phát triển thêm các công cụ cần thiết khác để khách hàng có thể dễ dàng tăng hiệu quả công việc nhất có thể.</div>
                 <small className="fw-light color-primary mb-2 d-block" /><a className="btn-watch" href="/apps" target="_blank">XEM THÊM<img src="assets/images/ic-polygon.webp" className="ms-2" /></a>
               </div>
             </div>
