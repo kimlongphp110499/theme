@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "dev": "next",
+    "dev": "next --port=4000",
     "prod:build": "next build",
     "homepage": "https://react.pixelstrap.com/unice/"
   },
