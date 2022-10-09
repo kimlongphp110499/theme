@@ -213,9 +213,9 @@ const Nav = () => {
                     })
                 }
                   <li>
-                    <a className="btn btn-primary" style={{padding: "10px 10px !important"}} href="/login">
-                        <span>Login/Register</span>
-                    </a>
+                  <Link href="https://drive.google.com/file/d/1-6SfKLjoHRjwspVNmsf8GjdlfbDJNOTE/view?usp=sharing">
+                    <a style={{"margin-left": "15px", "width": "150px;"}} className="btn btn-primary">      <span>SignIn/SignUp</span></a>
+                </Link>
                 </li>
             </ul>
             <ul className="main-menu">
