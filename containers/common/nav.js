@@ -214,7 +214,7 @@ const Nav = () => {
                 }
                   <li>
                   <Link href="https://drive.google.com/file/d/1-6SfKLjoHRjwspVNmsf8GjdlfbDJNOTE/view?usp=sharing">
-                    <a style={{"margin-left": "15px", "width": "150px;"}} className="btn btn-primary">      <span>SignIn/SignUp</span></a>
+                    <a style={{"margin-left": "15px", "width": "150px;"}} className="btn btn-primary"><span style={{"margin-left": "-32px;"}}>SignIn/SignUp</span></a>
                 </Link>
                 </li>
             </ul>

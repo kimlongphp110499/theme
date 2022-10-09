@@ -23,7 +23,7 @@ const Banner = () => {
             <div className="bg saas2-bg">
                 <Container>
                     <Row>
-                        <Col lg="6">
+                        <Col lg="6" style={{"margin-left": "-105px;"}}>
                             <div className="center-text">
                                 <div>
                                     <div className="header-text">
@@ -45,9 +45,10 @@ const Banner = () => {
                               
                         <div className="container-fluid blog-sec detail2 p-0">
                         <Slider {...settings1}>
-                        <img alt="" className="img-fluid img-dextop" src="/assets/images/saas2/dextop2.png" />
-                        <img alt="" className="img-fluid img-dextop" src="/assets/images/saas2/dextop2.png" />
-                        <img alt="" className="img-fluid img-dextop" src="/assets/images/saas2/dextop2.png" />
+                        <img alt="" className="img-fluid img-dextop" src="/assets/images/saas2/frmHome 10_9_2022 9_31_32 PM.png" />
+                        <img alt="" className="img-fluid img-dextop" src="/assets/images/saas2/frmHome 10_9_2022 9_31_40 PM.png" />
+                        <img alt="" className="img-fluid img-dextop" src="/assets/images/saas2/frmHome 10_9_2022 9_31_59 PM.png" />
+                        <img alt="" className="img-fluid img-dextop" src="/assets/images/saas2/frmHome 10_9_2022 9_34_46 PM.png" />
                         </Slider>
                         </div>
                         </Col>
