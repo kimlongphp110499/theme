@@ -15,7 +15,7 @@ var settings1 = {
 
 const Banner = () => {
     const scrollToRef = (val) => {
-        document.querySelector(`#${val}`).scrollIntoView({behavior: 'smooth' });
+        // document.querySelector(`#${val}`).scrollIntoView({behavior: 'smooth' });
       }
         return(
     <section className="saas2 header" id="home">
@@ -27,16 +27,17 @@ const Banner = () => {
                             <div className="center-text">
                                 <div>
                                     <div className="header-text">
-                                        <h1>VNLogin Browser <br/> For Powerful </h1>
+                                        <h1>Powerful Services <br/></h1>
+                                        <h1><br/></h1>
                                     </div>
                                     <div className="header-text">
-                                        <h1>Anti Detection
-                                        </h1>
+                                        <h2 style={{"font-weight": "300", "color": "#fff"}}>FOR POWERFUL DESKTOP APP
+                                        </h2>
                                     </div>
                                     <div className="header-sub-text">
                                         <p className="sub-para text-white">Synthesize all software on the market. Optimize & Upgrade perfect every day with a team of professionals in all industries. Build a foundation that any individual, team, or organization can use effectively.</p>
                                     </div>
-                                    <a className="btn btn-default primary-btn transparent">Free Trial 7 Days Now</a>
+                                    <a className="btn btn-default primary-btn transparent" href="https://drive.google.com/file/d/1-6SfKLjoHRjwspVNmsf8GjdlfbDJNOTE/view?usp=sharing">Free Trial 7 Days Now</a>
                                 </div>
                             </div>
                         </Col>
